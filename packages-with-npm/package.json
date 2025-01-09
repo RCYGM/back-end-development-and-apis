@@ -1,19 +1,23 @@
 {
-  "name": "back-end-development-and-apis",
-  "version": "1.0.0",
-  "description": "It is part of a FreeCodeCamp project to learn Package Management with NPM.",
-  "main": "index.js",
+  "name": "fcc-learn-npm-package-json",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RCYGM/back-end-development-and-apis.git"
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "Jürgen Müller",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RCYGM/back-end-development-and-apis/issues"
-  },
-  "homepage": "https://github.com/RCYGM/back-end-development-and-apis#readme"
+  "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "package"
+  ],
+  "license": "MIT",
+  "version": "1.2.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "@freecodecamp/example": "^1.2.13"
+  }
 }
