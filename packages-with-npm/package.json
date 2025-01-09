@@ -1,0 +1,19 @@
+{
+  "name": "back-end-development-and-apis",
+  "version": "1.0.0",
+  "description": "It is part of a FreeCodeCamp project to learn Package Management with NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RCYGM/back-end-development-and-apis.git"
+  },
+  "author": "Jürgen Müller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RCYGM/back-end-development-and-apis/issues"
+  },
+  "homepage": "https://github.com/RCYGM/back-end-development-and-apis#readme"
+}
